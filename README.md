@@ -1,6 +1,7 @@
-<img src = "banner.webp" width = "325px" align="rigth" >
+<img src = "banner.webp" width = "325px" align = "right" >
 
 <h1 align="center" >Olá 👋, Olá dev, é bom ter você por aqui! ❤️</h1>
+
 Sou desenvolvedor Frontend, gosto de jogos, filmes, séries, e animes.  
 
 
