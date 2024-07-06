@@ -1,6 +1,9 @@
-<img src = "banner.webp" width = "325px" align = "center" >
+<img src = "giphy.webp" width = "100%" height = "300px" align = "right">
 
-<h1>Olá 👋, é bom ter você por aqui! ❤️</h1>
+<h1 align = "center">
+  Olá 👋, é bom ter você por aqui! ❤️
+</h1>
+
 
 Sou desenvolvedor Frontend, gosto de jogos, filmes, séries, e animes.  
 
@@ -13,6 +16,7 @@ Sou desenvolvedor Frontend, gosto de jogos, filmes, séries, e animes.
   <a href="https://www.instagram.com/diego__drg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   
 </div>
+</br>
 
 - ❤ Estudando React
 - 💙 Fã de Dragon ball
