@@ -1,7 +1,8 @@
-<img src = "giphy.webp" width = "100%" height = "300px" align = "right">
-
 <h1 align = "center">
-  Olá 👋, é bom ter você por aqui! ❤️
+  <img src = "gif.webp" width = "460px">
+  </br>
+  </br>
+  <p>Olá 👋, é bom ter você por aqui! ❤️</p>
 </h1>
 
 
