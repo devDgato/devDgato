@@ -1,4 +1,4 @@
-<img src = "banner.webp" width = "325px" align = "right" >
+<img src = "banner.webp" width = "325px" align = "center" >
 
 <h1>Olá 👋, é bom ter você por aqui! ❤️</h1>
 
